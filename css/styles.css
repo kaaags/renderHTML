@@ -2,8 +2,49 @@ table, th, td{
 	border: 1px double black;
 }
 
-textarea {
+textarea{
 	width: 230px;
 	height: 160px;
 	margin-top: 5px;
+}
+
+/*final exercise follows
+*/
+
+.oneTop{
+	background-color: white;
+	font-family: "Helvetica", sans-serif;
+}
+
+.imgOneTopCtr{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.textOneTop{
+	text-align: center;
+}
+
+ul.navi{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 100px;
+	background-color: #ccf2ff;
+	text-align: center;
+}
+
+.active{
+	background-color: #007399;
+}
+
+li.navi{
+	float: left;
+}
+
+a.navi{
+	display: block;
+	padding: 2px;
+	background-color: #ccf2ff;
 }
