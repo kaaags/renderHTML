@@ -10,10 +10,18 @@ textarea{
 
 /*final exercise follows
 */
-
+body {
+	margin: 0px;
+}
 .oneTop{
 	background-color: white;
 	font-family: "Helvetica", sans-serif;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.navFinal{
+
 }
 
 .imgOneTopCtr{
@@ -25,6 +33,8 @@ textarea{
 .textOneTop{
 	text-align: center;
 }
+
+
 
 ul.navi{
 	list-style-type: none;
